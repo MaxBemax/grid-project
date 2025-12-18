@@ -219,7 +219,7 @@ html {
       top: -17px;
       width: 40px;
       height: 49px;
-      background: url('../icons/Arrow.svg') center center / cover no-repeat;
+      background: url('../icons/arrow.svg') center center / cover no-repeat;
    }
 
    @media screen and (max-width: 768px) {
@@ -365,7 +365,7 @@ html {
             top: 2px;
             width: 15px;
             height: 15px;
-            background: url('../icons/Camera.svg') center center / cover no-repeat;
+            background: url('../icons/camera.svg') center center / cover no-repeat;
 
             @media screen and (max-width: 576px) {
                display: none;
@@ -381,7 +381,7 @@ html {
             top: 2px;
             width: 15px;
             height: 15px;
-            background: url('../icons/Edit.svg') center center / cover no-repeat;
+            background: url('../icons/edit.svg') center center / cover no-repeat;
 
             @media screen and (max-width: 576px) {
                display: none;
